@@ -1,0 +1,10 @@
+pandas
+numpy
+scipy
+sklearn
+seaborn
+matplotlib
+surprise
+implicit
+time
+lightfm
